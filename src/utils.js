@@ -1,0 +1,1 @@
+export const idUsuario = "654da1a013e2be9c3ff82caa"
